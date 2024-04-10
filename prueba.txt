@@ -1,0 +1,11 @@
+agusticidad ububue variable1 = vaquito
+agusticidad pan variable1 = 777
+vuelaoque edrei ( pan alex ) {
+agusticidad pan variable1 = 7 
+agusticidad pan variable2 = 3 
+alex = variable1 + variable2
+ }
+paraqoque(pan i; i > 12; i++;){contenido} #eliminar
+paraqoque(pan i=0; i > 12; i++;){contenido}
+agusticidad pan variable1 = 2 vasir(variable1 > 4) {contenido1} novasir {contenido}
+
